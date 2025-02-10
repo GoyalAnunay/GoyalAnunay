@@ -1,12 +1,12 @@
 # Hello, I'm Anunay,
 <a href="https://www.linkedin.com/in/anunay-goyal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/GoyalAnunay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.instagram.com/goyal_anunay/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  <a href="https://tryhackme.com/p/Li4x"><img src="https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white" /></a> 
 
-## 🏆 TryHackMe Badge  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Li4x.png)](https://tryhackme.com/p/Li4x)
+
 
 I'm a BTech CSE student at VIT Bhopal, specializing in Cyber Security and Digital Forensics. Currently in my second year, I'm passionate about penetration testing and web security and working towards becoming job-ready by the end of next year. 
 
-🚀 Aspiring penetration tester | 🔐 Learning offensive security | 💻 Exploring digital forensics
+Aspiring penetration tester 🚀  | Learning offensive security  🔐 | Exploring digital forensics  💻
 
 I'm documenting my journey, sharing projects, and connecting with like-minded security enthusiasts. Feel free to check out my repositories and connect!
 
