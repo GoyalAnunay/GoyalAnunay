@@ -1,27 +1,18 @@
-# Hello, I'm Anunay,
-<a href="https://www.linkedin.com/in/anunay-goyal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi 👋, I'm Anunay Goyal</h1>
+<h3 align="center">I'm a BTech CSE student at VIT Bhopal, specializing in Cyber Security and Digital Forensics. Currently in my second year, I'm passionate about penetration testing and web security and working towards becoming job-ready by the end of next year. 🚀 Aspiring penetration tester | 🔐 Learning offensive security | 💻 Exploring digital forensics I'm documenting my journey, sharing projects, and connecting with like-minded security enthusiasts. Feel free to check out my repositories and connect!</h3>
 
-## 🏆 TryHackMe Badge  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Li4x.png)](https://tryhackme.com/p/Li4x)
+- 🔭 I’m currently working on **SOC Automation Project**
 
-I'm a BTech CSE student at VIT Bhopal, specializing in Cyber Security and Digital Forensics. Currently in my second year, I'm passionate about penetration testing and web security and working towards becoming job-ready by the end of next year. 
-🚀 Aspiring penetration tester | 🔐 Learning offensive security | 💻 Exploring digital forensics
-I'm documenting my journey, sharing projects, and connecting with like-minded security enthusiasts. Feel free to check out my repositories and connect!
+- 🌱 I’m currently learning **Python**
 
-## Objective
+- 📫 How to reach me **anunaygoyal16@gmail.com**
 
-Aspiring cybersecurity professional with a strong foundation in penetration testing, threat management, and digital forensics. I have earned certifications including CEH v12, Google Cybersecurity, and Cisco Cyber Threat Management. My goal is to secure a cybersecurity internship at Google while actively preparing for GPCSSI 2025. Passionate about offensive security, I have developed a graphical password authentication software as my first project and continue to work on hands-on security challenges. Additionally, I am currently working on a SOC automation project to enhance security operations through automation and efficiency. I am eager to contribute my skills, learn from industry experts, and stay ahead in the evolving cybersecurity landscape.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/goyalanunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goyalanunay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anunay-goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anunay-goyal" height="30" width="40" /></a>
+<a href="https://instagram.com/goyal_anunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goyal_anunay" height="30" width="40" /></a>
+</p>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Graphical Password Authentication
-- SOC Automation Project (in progress)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
