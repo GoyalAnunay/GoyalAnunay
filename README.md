@@ -37,10 +37,27 @@ Aspiring cybersecurity professional with a strong foundation in penetration test
 
 ## 🎓 Certifications  
 
-<a href="YOUR_CEH_CERT_LINK"><img src="https://img.shields.io/badge/CEH%20v12-A10000?style=for-the-badge&logo=ceh&logoColor=white" /></a>  <a href="YOUR_GOOGLE_CERT_LINK"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>  
-<a href="YOUR_CISCO_THREAT_CERT_LINK"><img src="https://img.shields.io/badge/CISCO%20Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>  
-<a href="YOUR_CISCO_INTRO_CERT_LINK"><img src="https://img.shields.io/badge/CISCO%20Intro%20to%20Cybersecurity-005073?style=for-the-badge&logo=cisco&logoColor=white" /></a>  
-<a href="YOUR_COURSES_CERT_LINK"><img src="https://img.shields.io/badge/Bits%20and%20Bytes%20of%20Networking-0056D2?style=for-the-badge&logo=google&logoColor=white" /></a>  
+<a href="https://github.com/GoyalAnunay/GoyalAnunay/blob/main/certificates/ECC-CEH-Certificate.pdf">
+    <img src="https://img.shields.io/badge/CEH v12-B31312?style=for-the-badge&logo=ceh&logoColor=white" />
+</a>  
+
+<a href="https://coursera.org/share/13fa041c4c941c97697c33d540bb9462">
+    <img src="https://img.shields.io/badge/Google Cyber Security-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>  
+
+<a href="https://www.credly.com/badges/8dd80293-4f33-42b0-9aa2-96aa69288267/public_url">
+    <img src="https://img.shields.io/badge/Cisco Intro to Cyber Security-0866C6?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>  
+
+<a href="https://www.credly.com/badges/61f87f07-ec09-4b9c-a554-a61c308527dd/public_url">
+    <img src="https://img.shields.io/badge/Cisco Cyber Threat Management-0866C6?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>  
+
+
+<a href="https://coursera.org/share/20e61cb77f5946a9a7b13c1340871f16">
+    <img src="https://img.shields.io/badge/Bits and Bytes of Networking-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" />
+</a>  
+
 
 ## Projects
 - Graphical Password Authentication
