@@ -14,7 +14,7 @@ Aspiring cybersecurity professional with a strong foundation in penetration test
 
 ## 🎓 Certifications  
 
-<a href="YOUR_CEH_CERT_LINK"><img src="https://img.shields.io/badge/CEH%20v12-000000?style=for-the-badge&logo=ceh&logoColor=white" /></a>  
+<a href="YOUR_CEH_CERT_LINK"><img src="https://img.shields.io/badge/CEH%20v12-A10000?style=for-the-badge&logo=ceh&logoColor=white" /></a>  
 <a href="YOUR_GOOGLE_CERT_LINK"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>  
 <a href="YOUR_CISCO_THREAT_CERT_LINK"><img src="https://img.shields.io/badge/CISCO%20Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>  
 <a href="YOUR_CISCO_INTRO_CERT_LINK"><img src="https://img.shields.io/badge/CISCO%20Intro%20to%20Cybersecurity-005073?style=for-the-badge&logo=cisco&logoColor=white" /></a>  
