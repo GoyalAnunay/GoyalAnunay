@@ -1,6 +1,8 @@
 # Hello, I'm Anunay,
 <a href="https://www.linkedin.com/in/anunay-goyal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3841146" style='border:none;'></iframe>
+
+## 🏆 TryHackMe Badge  
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Li4x.png)](https://tryhackme.com/p/Li4x)
 
 I'm a BTech CSE student at VIT Bhopal, specializing in Cyber Security and Digital Forensics. Currently in my second year, I'm passionate about penetration testing and web security and working towards becoming job-ready by the end of next year. 
 🚀 Aspiring penetration tester | 🔐 Learning offensive security | 💻 Exploring digital forensics
