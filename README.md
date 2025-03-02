@@ -14,7 +14,7 @@ I'm documenting my journey, sharing projects, and connecting with like-minded se
 
 ## Objective
 
-Aspiring cybersecurity professional with a strong foundation in penetration testing, threat management, and digital forensics. I have earned certifications including CEH v12, Google Cybersecurity, and Cisco Cyber Threat Management. My goal is to secure a cybersecurity internship at Google while actively preparing for GPCSSI 2025. Passionate about offensive security, I have developed a graphical password authentication software as my first project and continue to work on hands-on security challenges. Additionally, I am currently working on a SOC automation project to enhance security operations through automation and efficiency. I am eager to contribute my skills, learn from industry experts, and stay ahead in the evolving cybersecurity landscape.
+Aspiring cybersecurity professional with a strong foundation in penetration testing, threat management, and digital forensics. I have earned certifications including CEH v12, Google Cybersecurity, and Cisco Cyber Threat Management. Passionate about offensive security, I have developed a graphical password authentication software as my first project and continue to work on hands-on security challenges. Additionally, I am currently working on a SOC automation project to enhance security operations through automation and efficiency. I am eager to contribute my skills, learn from industry experts, and stay ahead in the evolving cybersecurity landscape.
 
 ## 🏆 TryHackMe Badge  
 
