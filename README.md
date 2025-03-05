@@ -18,9 +18,7 @@ Aspiring cybersecurity professional with a strong foundation in penetration test
 
 ## 🏆 TryHackMe Badge  
 
-<a href="https://tryhackme.com/p/Li4x">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Li4x.png" alt="TryHackMe Badge" />
-</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Li4x.png" alt="Your Image Badge" />
 
 
 ## 🛠 Tools  
